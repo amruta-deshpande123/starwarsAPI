@@ -6,8 +6,7 @@ starwarsAPI (project root directory)
 
     task_one.py
     task_two.py
-    task_two_cli.py
-    requirements.txt
+    task_three.py
     README.md
     venv
     utils

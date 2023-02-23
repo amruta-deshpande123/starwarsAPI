@@ -25,7 +25,7 @@ import argparse
 
 
 def generate_15_random_numbers():
-    """produces 15 random numbers"""
+    """produces 15 random number"""
 
     i = 1
     result = []

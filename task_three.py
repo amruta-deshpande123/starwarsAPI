@@ -5,7 +5,7 @@ from utils.randgen import ProduceChars
 from utils.fetch_data import hit_url
 from utils.timing import timeit
 
-# resource classes
+# resource classes.
 from resources.characters import Characters
 from resources.films import Films
 from resources.planets import Planets

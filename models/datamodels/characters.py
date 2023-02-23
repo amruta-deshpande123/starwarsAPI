@@ -13,7 +13,7 @@ class Characters_(Base):
         single resource endpoint (https://swapi.dev/api/people/) from starwars API.
     """
 
-    # attribute fields
+    # attribute field
     name: str
     height: str
     mass: str

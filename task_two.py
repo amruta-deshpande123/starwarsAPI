@@ -1,4 +1,5 @@
 """
+
 The task 2 goes like following:
 Pull data for the the first movie in star wars
 Write the json data into a file named output.txt

@@ -27,6 +27,7 @@ def characters_data():
     """
         Getting count of Characters; Validating Characters data; Generates list of all Characters
         URLs...
+>>>>>>> main
     """
 
 

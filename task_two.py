@@ -7,7 +7,7 @@ SUBTASKS -
 in the movie.
 2. Output should only print list of planet names used in the movie
 3. Output should only print list of vehicle names used in the movie.
-TODO EXERCISE-#Done
+TODO EXERCISE-#Done....
 1. create a command line application of task_two
 python task_two.py people
 python task_two.py planet

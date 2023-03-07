@@ -26,7 +26,8 @@ from models.datamodels.starships import Starships_
 def characters_data():
     """
         Getting count of Characters; Validating Characters data; Generates list of all Characters
-        URLs.....
+        URLs...
+>>>>>>> main
     """
 
 

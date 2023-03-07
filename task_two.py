@@ -1,5 +1,4 @@
 """
-
 The task 2 goes like following:
 Pull data for the the first movie in star wars
 Write the json data into a file named output.txt
@@ -8,7 +7,7 @@ SUBTASKS -
 in the movie.
 2. Output should only print list of planet names used in the movie
 3. Output should only print list of vehicle names used in the movie.
-TODO EXERCISE-
+TODO EXERCISE-#Done
 1. create a command line application of task_two
 python task_two.py people
 python task_two.py planet
